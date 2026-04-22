@@ -155,14 +155,3 @@ The transform-based loop runs in the PWM ISR. PI gains were tuned bench-side usi
 ## Outcome
 
 A working prototype 3-phase active rectifier that addressed the FSAE car's charge deficit at a fraction of the cost of a COTS solution with no mechanical changes to the engine, alternator, or battery. The hardware was designed to be sealed, vibration tolerant, and serviceable, with extensive test-point access for bring-up and field diagnostics.
-
----
-
-## Repo Structure
-
-```
-/hardware       Altium project — schematic, PCB, BoM
-/firmware       TLE9893 source (PFC loop, PWM config, ADC, CAN)
-/docs           Datasheets, design calcs, power-loss spreadsheet
-/test           Bring-up procedures, scope captures
-```
