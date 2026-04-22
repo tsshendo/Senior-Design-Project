@@ -57,4 +57,5 @@ The project culminated in a working prototype of a high-efficiency active rectif
 ![WhatsApp Image 2025-06-24 at 7 47 24 PM](https://github.com/user-attachments/assets/e758d77b-d057-4255-a760-56c023ac2b79)
 
 Here is an image of the final custom PCB the team developed and please refer to the Schematic PDF for the circuit design.
+For hardware design explanation, please refer to HardwareOverview.md
 ![image](https://github.com/user-attachments/assets/14f9cbf0-9c22-4583-813f-bb2594925e17)
